@@ -14,7 +14,7 @@ def main():
     )
 
     output = Indexer.generate()
-    if args.print:
+    if args.quiet:
         print(output)
 
     if args.output:

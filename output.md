@@ -1,13 +1,3 @@
-# mdtree
-
----
-
-Python Program to generate a Markdown Link Tree
-
-```bash
-$ python3 -m mdtree -i -o output.md
-```
-
 - .
 	- [LICENSE](./LICENSE)
 	- mdtree
@@ -24,4 +14,3 @@ $ python3 -m mdtree -i -o output.md
 	- [MANIFEST.in](./MANIFEST.in)
 	- [README.md](./README.md)
 	- [setup.py](./setup.py)
-

@@ -55,8 +55,8 @@ def parse_args():
     )
 
     parser.add_argument(
-        "-p",
-        "--print",
+        "-q",
+        "--quiet",
         action="store_false",
         help="Print to stdout"
 
